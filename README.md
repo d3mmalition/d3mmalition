@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Emma Carr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on applications to support small bisniss owners
-- 📫 How to reach me ecarr.gardner@gmail.com
+- 👋 Hi, I’m Emma!
+- 👀 I’m interested in web dev for education
+- 🌱 I’m currently learning error handling in Express.js
+- 💞️ I’m looking to collaborate on commuinity based web app projects
+- 📫 Reach me anytime at ecarr.gardner@gmail.com
 
 <!---
 d3mmalition/d3mmalition is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
