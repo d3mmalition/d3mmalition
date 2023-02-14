@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emma!
-- 👀 I’m interested in web dev for education
+- 👀 I’m interested in EdTech.
 - 🌱 I’m currently learning error handling in Express.js
 - 💞️ I’m looking to collaborate on commuinity based web app projects
 - 📫 Reach me anytime at ecarr.gardner@gmail.com
