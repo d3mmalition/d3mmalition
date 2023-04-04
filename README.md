@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emma</h1>
+<h1 align="center">Hi 👋🏾, I'm Emma</h1>
 <h3 align="center">A passionate full-stack developer, working in sunny Florida</h3>
 
 - 🔭 I’m currently working on a [MERN - booking clone](https://github.com/d3mmalition/booking_clone)
