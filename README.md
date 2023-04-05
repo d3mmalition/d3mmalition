@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **pandas for python**
 
-- 👨‍💻 A sample of my work is available at [emmabuilds.co](www.emmabuilds.co)
+- 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
 
 - 📫 reach me via email: **ecarr.gardner@gmail.com**
 
