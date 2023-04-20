@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [MERN - booking clone](https://github.com/d3mmalition/booking_clone)
 
-- 🌱 I’m currently learning **pandas for python**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
 
