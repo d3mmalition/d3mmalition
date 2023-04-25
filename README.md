@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Emma</h1>
 <h3 align="center">A passionate full-stack developer, working in sunny Florida</h3>
 
-- 🔭 I’m currently working on a Saas Spring Boot App!
+- 🔭 I’m currently working on a simple Calculator App!
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
 
