@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something new!
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
 
