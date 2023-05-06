@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Emma</h1>
 <h3 align="center">A passionate full-stack developer, working in sunny Florida</h3>
 
-- 🔭 I’m currently working on something new!
+- 🔭 I’m currently working on becoming a .NET developer!
 
 - 🌱 I’m currently learning **.NET Core**
 
