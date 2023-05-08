@@ -9,7 +9,7 @@
 
 - 📫 reach me via email: **ecarr.gardner@gmail.com**
 
-- ⚡ Fun fact, **I love gardening c:**
+- ⚡ Fun fact, **I've lived & worked on 3 different continents c:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
