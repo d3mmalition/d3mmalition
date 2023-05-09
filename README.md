@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Emma</h1>
 <h3 align="center">A passionate full-stack developer, working in sunny Florida</h3>
 
-- 🔭 I’m currently working on becoming a .NET developer!
+- 🔭 I’m currently working on an instagram clone!
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning JSON Web Token (JWT)
 
 - 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
 
