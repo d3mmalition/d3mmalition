@@ -11,9 +11,7 @@
 
 - ⚡ Fun fact, **I've lived & worked on 3 different continents c:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ecarrgardner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecarrgardner" height="30" width="40" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
