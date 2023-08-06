@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning JSON Web Token (JWT)
 
-- 👨‍💻 A sample of my work is available at [emmabuilds.co](https://www.emmabuilds.co)
-
 - 📫 reach me via email: **emmabuilds@gmail.com**
 
 - ⚡ Fun fact, **I've lived & worked on 3 different continents c:**
